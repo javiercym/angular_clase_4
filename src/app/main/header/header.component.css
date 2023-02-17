@@ -1,0 +1,13 @@
+header{
+    background-color: #adff2f;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    height: 200px;
+}
+.texto{
+    margin-bottom: 70px;
+}
+nav{
+    padding: 0px 30px;
+}

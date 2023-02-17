@@ -1,0 +1,12 @@
+main{
+    background-color: #0000ff;
+    height: 700px;
+}
+.texto{
+    color: #ffffff;
+    text-align: center;
+    font-size: 40px;
+}
+.espacio{
+    padding: 0px 30px;
+}

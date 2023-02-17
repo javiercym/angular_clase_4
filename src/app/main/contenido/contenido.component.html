@@ -1,0 +1,17 @@
+<div class="row">
+    <div class="col-6">
+        <article>
+            <p>Contenido</p>
+            <p>{{texto}}</p>
+            <button type="button" class="btn btn-outline-secondary" (click)="cambiartexto()">Cambiar texto</button>
+        </article>
+    </div>
+    <div class="col-6">
+        <app-lateral [texto2]="texto" (cambiarNomnbre)="texto = $event"> </app-lateral>
+    </div>
+</div>
+
+
+
+
+
